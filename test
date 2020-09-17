@@ -1,0 +1,5 @@
+index_list = []
+index_less = []
+count = 0
+dt_group = df.groupby('PID')
+groups = dt_group.groups
